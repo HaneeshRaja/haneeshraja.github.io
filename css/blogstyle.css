@@ -79,14 +79,9 @@ header {
 
 .barticle {
     background-color: white;
+    margin-top: 20px;
     margin-left: 25px;
     margin-right: 20px;
-}
-
-.barticle-link {
-    margin-left: 25px;
-    cursor: pointer;
-    font-size: 20px;
 }
 
 .breif {
@@ -103,6 +98,13 @@ header {
     margin-bottom: 20px;
     margin-left: 15px;
     background: white;
+}
+
+.barticle-link {
+    margin-left: 25px;
+    cursor: pointer;
+    font-family: 'Arimo', sans-serif;
+    font-size: 20px;
 }
 
 /* Blog Breifs End Here */
@@ -154,6 +156,7 @@ Breif Images End Here */
     }
     
     .barticle {
+        font-family: 'Arimo', sans-serif;
         font-size: 20px;
     }
 
